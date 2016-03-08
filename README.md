@@ -6,7 +6,7 @@
 </tr>
 </table>
 
-# Eclipse CNC 
+# MicroStage 
 
 
 Little opensource CNC for PCB with UV laser diode  

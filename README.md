@@ -28,6 +28,9 @@ Eclipse is a little CNC born to made PCB with an UV laser diode.
 
 Is possible to add another small Z axis and a tiny syringe extruder and use Eclipse also for BIO printing and solder paste extruding 
 
+<td>
+<img src="images/MicroStage.png" width="800" align="center">
+</td>
 
 ## BOM
 TODO
